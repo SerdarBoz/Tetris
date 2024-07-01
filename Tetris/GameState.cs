@@ -84,7 +84,7 @@ namespace Tetris
                 CurrentBlock.RotateCCW();
             }
         }
-
+        
         public void RotateBlockCCW()
         {
             CurrentBlock.RotateCCW();

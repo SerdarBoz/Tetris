@@ -165,7 +165,7 @@ namespace Tetris
                 case Key.Up:
                     gamestate.RotateBlockCW();
                     break; 
-                case Key.Z:
+                case Key.W:
                     gamestate.RotateBlockCCW();
                     break;
                 case Key.C: 
